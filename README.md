@@ -1,7 +1,6 @@
 # COMP3005 Assignment 3
 
 Java app that connects to a PostgreSQL database and does basic CRUD on a students table.
-Youtube Link: https://youtu.be/dYlkpQ_dO9E
 
 ## What's in this repo
 
